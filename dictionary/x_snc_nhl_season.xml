@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Season" max_length="40" name="x_snc_nhl_season" type="collection">
+        <element label="Season Label" max_length="40" name="season_label" type="string"/>
+    </element>
+</database>
